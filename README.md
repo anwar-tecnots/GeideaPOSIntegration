@@ -18,7 +18,7 @@ This is a C# console application to integrate with the **Geidea Palm POS Termina
 1. **Clone or Create Project**
    ```bash
    dotnet new console -n GeideaPOSIntegration
-```
+   ```
 
 2. **Install Required Packages**
 
